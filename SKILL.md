@@ -3,8 +3,9 @@ name: organizational-psychodynamics-analysis
 description: Analyze organizational behavior through the lens of depth psychology, examining unconscious dynamics, group defenses, and the hidden forces that shape how teams and organizations function.
 license: MIT
 metadata:
+  version: 1.0.4619
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - organizational-psychodynamics-analysis
 - storytelling
